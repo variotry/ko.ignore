@@ -1,0 +1,21 @@
+{
+	"name": "ko.ignore",
+	"main": [
+		"dist/ko.ignore.min.js"
+	],
+	"ignore": [
+		"**/.*",
+		"bower_components",
+		"gulpfile.js",
+		"gulpfiles",
+		"package.json",
+		"tsconfig.json",
+		"tslint.json",
+		"typings.json",
+		"*.sln",
+		"*.csproj"
+	],
+	"devDependencies": {
+		"knockout": "*"
+	}
+}
